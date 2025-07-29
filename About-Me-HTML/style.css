@@ -1,8 +1,10 @@
 * {
     box-sizing: border-box;
     margin: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
 }
 
 h1 {
     font-size: 3rem;
 }
+
