@@ -4,7 +4,34 @@
     font-family:Verdana, Geneva, Tahoma, sans-serif
 }
 
+body {
+    background-color: #f0f0f0;
+}
+
+
 h1 {
     font-size: 3rem;
+}
+
+.inline-img {
+    width: 200px;
+    height: 50px;
+    vertical-align: middle;
+    margin-left: 5px;
+}
+
+button.back-btn {
+    margin: 10px 40px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #0f1402;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button.back-btn:hover {
+    background-color: #f7e709;
 }
 
